@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
           margin: 0;
           color: white;
           text-align: center;
-        }
+        }qcle
         .container {
           background: rgba(0, 0, 0, 0.4);
           padding: 20px;
