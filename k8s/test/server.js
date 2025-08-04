@@ -76,7 +76,7 @@ app.get('/', (req, res) => {
 
 // Health check endpoint (used by ECS and UI)
 app.get('/health', (req, res) => {
-  res.status(200).send('Container is healthy! ✅');
+  res.status(200).send('Container is healthy and running smoothly ✅');
 });
 
 // Start server
